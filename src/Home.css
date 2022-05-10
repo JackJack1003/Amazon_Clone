@@ -1,0 +1,5 @@
+.home__image { 
+    width: 50%; 
+    align-self: center; 
+    mask-image: linear-gradient(to bottom, rgb(0,0,0,1), rgb(0,0,0,0));
+}
